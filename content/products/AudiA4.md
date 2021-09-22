@@ -1,3 +1,23 @@
-{ "title": "Audi A4", "date": "2018-05-11T22:35:06+05:30", "tags": ["Wall Light", "ambience", "black", "black metal", "contemporary", "cool", "cozy", "edison bulb", "filament bulb", "glass", "green", "indoor", "light", "metal", "MODERN", "round", "rustic", "vintage", "white"], "categories": ["Wall Light"], "images": ["img/alessa/1.png", "img/alessa/2.jpg", "img/alessa/3.jpg", "img/alessa/4.jpg", "img/alessa/5.jpg", "img/alessa/6.jpg"], "thumbnailImage": "img/alessa/thumnail.png", "actualPrice": null, "comparePrice": null, "inStock": null, "options": { "Color": ["Chrome", "Green", "White", "Black"], "Size" : ["L19 x W24 x H23cms"] }, "variants": [ { "optionCombination" : ["Chrome", "L19 x W24 x H23cms"], "comparePrice": null, "actualPrice": "₹ 3,032.00", "inStock": true }, { "optionCombination" : ["Green", "L19 x W24 x H23cms"], "comparePrice": null, "actualPrice": "₹ 2,032.00", "inStock": false }, { "optionCombination" : ["Black", "L19 x W24 x H23cms"], "comparePrice": null, "actualPrice": "₹ 1,032.00", "inStock": true } ] }
+{
+    "title": "Modo 22 Lamp",
+    "date": "2018-05-12T15:54:25+05:30",
+    "tags": ["chandeliers"],
+    "categories": ["chandeliers"],
+    "images": ["img/modo-21-lamp/1.jpg", "img/modo-21-lamp/2.jpg", "img/modo-21-lamp/2.jpg"],
+    "thumbnailImage": "img/modo-21-lamp/thumbnail.jpg",
+    "actualPrice": "₹ 85,000.00",
+    "comparePrice": null,
+    "inStock": true,
+    "options": {},
+    "variants": []
+}
 
-The Alessa collection features a metal shade that when illuminated provides a beautiful two toned look. Perfect for mounting along your house, on your deck or patio, or as entryway lights. Available in black, green, white and clear glass.
+A mid-century modern chandelier which in inspired by the hub and spoke design. It has a modern take on a retro industrial style of lighting. The incandescent bulbs in the smoky glass globes glow beautifully when turned on. This chandelier offers warm ambient lighting and will effortless enhance your home decor. It is a luxury lighting fixture for your living room or dining room. Buy Luxury Chandeliers Online in India at best prices. Free Shipping.
+
+Total Fixture Dimensions (in inches): D1235xH81cm
+
+Material: Metal & Glass
+
+Colour: Black & Grey
+
+Bulb Holder: E14
