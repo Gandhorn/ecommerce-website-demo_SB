@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Awesome Lighting Inc."
+title = "My Demo Website"
 theme = "hugo-shopping-product-catalogue-simple"
 themesDir = "./themes"
 [Params]
