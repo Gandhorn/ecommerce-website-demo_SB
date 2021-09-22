@@ -1,5 +1,5 @@
 {
-    "title": "Audi A4",
+    "title": "Audi S4 B8.5 3.0T",
 	"brand": "Audi",
 	"model": "A4",
 	"Segment": "D",
@@ -9,7 +9,7 @@
     "categories": ["Wagon"],
     "images": ["img/4_1.jpg", "img/4_2.jpg", "img/4_3.jpg"],
     "thumbnailImage": "img/4_1.jpg",
-    "actualPrice": "12.990€",
+    "actualPrice": "25.990€",
     "comparePrice": null,
     "inStock": true,
 	"year": 2015,
