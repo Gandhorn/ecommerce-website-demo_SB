@@ -1,5 +1,5 @@
 {
-    "title": "Modo 21 Lamp",
+    "title": "Modo 22 Lamp",
     "date": "2018-05-12T15:54:25+05:30",
     "tags": ["chandeliers"],
     "categories": ["chandeliers"],
