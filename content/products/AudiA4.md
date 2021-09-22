@@ -1,5 +1,9 @@
 {
     "title": "Audi A4 B8",
+	"brand": "Audi",
+	"model": "A4",
+	"Segment": "D",
+	"power": "146kW",
     "date": "2018-05-12T15:54:25+05:30",
     "tags": ["audi, A4"],
     "categories": ["Sedan"],
@@ -8,6 +12,12 @@
     "actualPrice": "23.000€",
     "comparePrice": null,
     "inStock": true,
+	"year": 2011,
+	"mileage": 145237,
+	"new_user": "used",
+	"color": "gray",
+	"gear_type": "automatic",
+	"location": "Munich",
     "options": {},
     "variants": []
 }
