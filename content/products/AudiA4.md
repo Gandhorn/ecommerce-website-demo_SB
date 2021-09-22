@@ -12,12 +12,80 @@
     "variants": []
 }
 
-A mid-century modern chandelier which in inspired by the hub and spoke design. It has a modern take on a retro industrial style of lighting. The incandescent bulbs in the smoky glass globes glow beautifully when turned on. This chandelier offers warm ambient lighting and will effortless enhance your home decor. It is a luxury lighting fixture for your living room or dining room. Buy Luxury Chandeliers Online in India at best prices. Free Shipping.
+Technik & Sicherheit:
+Einparkhilfe plus
+Rückfahrkamera
+Komfortschlüssel inklusive sensorgesteuerter Gepäckraumentriegelung inklusive Gepäckraumklappe, elektrisch öffnend und schließend
+Kindersitzbefestigung ISOFIX und Top Tether für die äußeren Fondsitze
+Seitenairbags vorn und Kopfairbagsystem
+Außenspiegel elektrisch einstell-, beheiz- und anklappbar, inkl. Bordsteinautomatik für Beifahreraußenspiegel
+Komfortklimaautomatik 3-Zonen
+Fensterheber elektrisch
+7-Gang-Automatikgetriebe
+Audi drive select mit efficiency®
+elektromechanische Servolenkung
+Tiptronic
+Wegfahrsperre, elektronisch
+Start-Stop-System
+Abgaskonzept, EU6 plus
+Xenon plus
+Tagfahrlicht
 
-Total Fixture Dimensions (in inches): D1235xH81cm
+Multimedia:
+Audi connect Navigation & Infotainment
+Audi connect Navigation & Infotainment (3 Jahre)
+Businesspaket Großkunden Deutschland
+MMI Navigation plus mit MMI touch®
+MMI Navigation plus
+Audi smartphone interface
+Audi sound system
+Audi phone box
 
-Material: Metal & Glass
+Assistenzsysteme:
+Assistenzpaket Stadt
+Audi side assist
+Fernlichtassistent
+Licht-/Regensensor
+Geschwindigkeitsregelanlage
+ABS (Antiblockiersystem)
+Audi pre sense city
+Reifendruck-Kontrollanzeige
 
-Colour: Black & Grey
+Interieur:
+Alcantara-Leder-Kombination
+Kindersitzbefestigung ISOFIX für den Beifahrersitz
+Lederlenkrad im 3-Speichen-Design mit Multifunktion plus
+Vordersitze, elektrisch einstellbar
+Sitzheizung vorn
+Innenspiegel, automatisch abblendend, rahmenlos
+Komfortmittelarmlehne vorn
+Audi virtual cockpit
+Sportsitze vorn
+Wendeladeboden
+Rücksitzlehne, umklappbar
+4-Wege-Lendenwirbelstütze für die Vordersitze
 
-Bulb Holder: E14
+Exterieur:
+Aluminium-Gussräder im 5-Arm-Stern-Design, Größe 7,5 J x 17, mit Reifen 225/50 R 17
+Privacy-Verglasung (Scheiben abgedunkelt) und Türscheiben vorn in Akustikverglasung
+Farbe Florettsilber Metallic
+Ausstattung Sport
+Dachreling eloxiert
+
+Sonstiges:
+Innenfarbe: schwarz
+AdBlue®-Tank (24 Liter)
+* All-Season-Reifen, Größe 7,5 J x 17, mit Reifen 225/50 R 17
+* Lichtpaket
+* Vorrüstung für Anhängevorrichtung
+* Audi pre sense rear
+* Nichtraucherausführung
+* Dieselpartikelfilter
+* Variant/Avant
+* elektromechanische Parkbremse
+* Vorderradantrieb
+* Wärmeschutzverglasung
+* Glanzpaket
+* Dekoreinlagen Aluminium Ellipse
+* Einstiegsleisten mit Aluminiumeinlage
+* Heckleuchten
