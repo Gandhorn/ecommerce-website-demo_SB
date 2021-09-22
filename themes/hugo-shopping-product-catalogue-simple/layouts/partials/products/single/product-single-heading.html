@@ -18,6 +18,15 @@
     var productActualPrice  = {{ .Params.actualPrice }}
     var productComparePrice  = {{ .Params.comparePrice }}
     var productBrand = {{ .Params.brand }}
+    var productModel = {{ .Params.model }}
+    var productSegment = {{ .Params.Segment }}
+    var productPower = {{ .Params.power }}
+    var productYear = {{ .Params.year }}
+    var productMileage = {{ .Params.mileage }}
+    var productNewUser = {{ .Params.new_user }}
+    var productColor = {{ .Params.color }}
+    var productGearType = {{ .Params.gear_type }}
+    var productLocation = {{ .Params.location }}
     var productInStock = {{ .Params.inStock }}
     var productVariants = JSON.parse({{ .Params.variants | jsonify }})
 </script>
