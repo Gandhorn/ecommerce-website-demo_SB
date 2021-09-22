@@ -5,7 +5,7 @@
     "categories": ["Sedan"],
     "images": ["img/1_1.jpg", "img/1_2.jpg", "img/1_3.jpg"],
     "thumbnailImage": "img/1_1.jpg",
-    "actualPrice": "23000€",
+    "actualPrice": "23.000€",
     "comparePrice": null,
     "inStock": true,
     "options": {},
