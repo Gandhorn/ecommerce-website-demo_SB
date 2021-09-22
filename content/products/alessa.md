@@ -1,37 +1,71 @@
 {
-    "title": "Alessa",
-    "date": "2018-05-11T22:35:06+05:30",
-    "tags": ["Wall Light", "ambience", "black", "black metal", "contemporary", "cool", "cozy", "edison bulb", "filament bulb", "glass", "green", "indoor", "light", "metal", "MODERN", "round", "rustic", "vintage", "white"],
-    "categories": ["Wall Light"],
-    "images": ["img/alessa/1.png", "img/alessa/2.jpg", "img/alessa/3.jpg", "img/alessa/4.jpg", "img/alessa/5.jpg", "img/alessa/6.jpg"],
-    "thumbnailImage": "img/alessa/thumnail.png",
-    "actualPrice": null,
+    "title": "Audi A4 1.8 TSI",
+    "date": "2018-05-12T15:54:25+05:30",
+    "tags": ["audi, A4"],
+    "categories": ["Sedan"],
+    "images": ["img/2_1.jpg", "img/2_2.jpg", "img/2_3.jpg"],
+    "thumbnailImage": "img/2_1.jpg",
+    "actualPrice": "8.990€",
     "comparePrice": null,
-    "inStock": null,
-    "options": {
-            "Color": ["Chrome", "Green", "White", "Black"],
-            "Size" : ["L19 x W24 x H23cms"]
-    },
-    "variants": [
-        {
-            "optionCombination" : ["Chrome", "L19 x W24 x H23cms"],
-            "comparePrice": null,
-            "actualPrice": "₹ 3,032.00",
-            "inStock": true
-        },
-        {
-            "optionCombination" : ["Green", "L19 x W24 x H23cms"],
-            "comparePrice": null,
-            "actualPrice": "₹ 2,032.00",
-            "inStock": false
-        },
-        {
-            "optionCombination" : ["Black", "L19 x W24 x H23cms"],
-            "comparePrice": null,
-            "actualPrice": "₹ 1,032.00",
-            "inStock": true
-        }
-    ]
+    "inStock": true,
+    "options": {},
+    "variants": []
 }
 
-The Alessa collection features a metal shade that when illuminated provides a beautiful two toned look. Perfect for mounting along your house, on your deck or patio, or as entryway lights. Available in black, green, white and clear glass.
+Beschreibung
+Fahrzeug-Nummer: PARK5009
+Ehem. UPE 28.300 EUR
+Anschlussgarantie inkl.
+Komfort
+Klimaautomatik
+Elektrische Fensterheber
+Zentralverriegelung
+Leder-Lenkrad
+El. Spiegel beheizt
+Wärmedämmendes Glas
+Anfahrassistent
+Sicherheit
+Seitenairbags hinten
+ESP (el. Stabilitäts Programm)
+Elektronische Wegfahrsperre
+Tagfahrlicht
+Reifen-Pannenkit
+Exterieur
+Alufelgen 16 Zoll
+APS (Akustik-Park-System)
+Nebelscheinwerfer
+Heckklappe elektrisch
+Interieur
+Interieur Stoff
+Interieurfarbe Schwarz
+Geteilte Rückbank
+Isofix-System
+Mittelarmlehne
+Sitzhöhenverstellung
+5 Sitzplätze
+Media
+AUX-In Anschluss
+Radio
+CD-Player
+Audi music interface
+Schaltung
+Tiptronic-Automatik
+Technik
+Xenon-Scheinwerfer
+ABS
+Traktionskontrolle
+Servo-Lenkung
+Scheinwerfer-Reinigungsanlage
+Schadstoffklasse EURO 5
+Umweltplakette grün
+Energierückgewinnung (Rekuperation)
+Dynamikfahrwerk (Abwahl Sportfahrwerk)
+Allgemein
+Anschlussgarantie inkl.
+Sonstiges
+Emissionsärmster Kraftstoff: Super
+Weitere Informationen
+Anschlussgarantie 1 Jahr, max. 30.000 km
+Multifunktionsanzeige,ohne Bordcomputer,ohne Check Control
+
+Änderungen, Zwischenverkauf und Irrtümer sind ausdrücklich vorbehalten. Die Beschreibung dient der allgemeinen Identifizierung des Fahrzeuges und stellt keine Gewährleistung im kaufrechtlichen Sinne dar. Ausschlaggebend ist die Beschreibung gemäß Kaufvertrag.
