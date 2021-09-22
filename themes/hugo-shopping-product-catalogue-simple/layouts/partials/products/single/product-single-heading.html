@@ -17,6 +17,7 @@
 <script>
     var productActualPrice  = {{ .Params.actualPrice }}
     var productComparePrice  = {{ .Params.comparePrice }}
+    var productBrand = {{ .Params.brand }}
     var productInStock = {{ .Params.inStock }}
     var productVariants = JSON.parse({{ .Params.variants | jsonify }})
 </script>
